@@ -1,1 +1,1 @@
-CS102A-chess game project.
+CS102A-java homework.
